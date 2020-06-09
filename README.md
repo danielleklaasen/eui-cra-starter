@@ -1,5 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Elastic UI
+
+[Elastic UI](https://elastic.github.io/eui) is implemented in this Create React App Starter.
+
+### Theme files
+
+The theme files live inside `src`.
+
+    .
+    ├── ...
+    ├── themes                        # Theme files
+    │   ├── theme_colors_light.scss   # Load colors
+    │   └── theme_light.scss          # Theme index
+    └── ...
+
+
 ## Available Scripts
 
 In the project directory, you can run:
