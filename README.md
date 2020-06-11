@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and can form a base / example for your next project based on Elastic UI, including a simple custom theme setup.
 
 ## Elastic UI
 
